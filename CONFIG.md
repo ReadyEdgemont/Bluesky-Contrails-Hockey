@@ -3,19 +3,19 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-emotional-support-pets
+bluesky-hockey
 
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-Emotional Support Pets
+Blueksy Hockey
 
 # description
 
 > This is the description of the feed.
 
-Cute animals feed
+You're feed for all things hockey on bluesky! Feed managed by @readyedgemont.bsky.social
 
 # searchTerms
 
@@ -25,12 +25,17 @@ Cute animals feed
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e
-- cats
-- dogs
-- penguins
-- red pandas
-- quokkas
+- https://bsky.app/profile/evolvingwild.bsky.social
+- https://bsky.app/profile/capfriendly.bsky.social
+- https://bsky.app/profile/marklazerus.bsky.social
+- https://bsky.app/profile/wyshynski.bsky.social
+- https://bsky.app/profile/jfreshhockey.bsky.social
+- https://bsky.app/profile/mariotirabassi.bsky.social
+- https://bsky.app/profile/blackburn.bsky.social
+- https://bsky.app/profile/wingedwheelpodcast.bsky.social
+- https://bsky.app/profile/dobberhockey.bsky.social
+- NHL
+- Hockey
 
 # safeMode
 
