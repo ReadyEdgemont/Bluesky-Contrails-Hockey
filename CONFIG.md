@@ -3,7 +3,7 @@
 bluesky-hockey
 
 # displayName
-Blueksy Hockey
+Hockey+
 
 # description
 You're feed for all things hockey on bluesky! Feed managed by @readyedgemont.bsky.social
