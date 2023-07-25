@@ -1,14 +1,23 @@
 
 # recordName
 bluesky-hockey
+> This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
 # displayName
 Hockey+
+> This is the title of the custom feed. Maximum length is 24 characters.
 
 # description
 You're feed for all things hockey on bluesky! Feed managed by @readyedgemont.bsky.social
+> This is the description of the feed.
+
 
 # searchTerms
+> There are three types of search terms:
+>
+> - Keywords: Test these in [https://bsky.app/search](https://bsky.app/search). `AND` is implicit, so `cat dog` on one line will require both `cat` and `dog`. You can use quotes as well `"hot dog"`.
+> - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
+> - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 - https://bsky.app/profile/evolvingwild.bsky.social
 - https://bsky.app/profile/capfriendly.bsky.social
 - https://bsky.app/profile/marklazerus.bsky.social
@@ -23,41 +32,13 @@ You're feed for all things hockey on bluesky! Feed managed by @readyedgemont.bsk
 - https://bsky.app/profile/gregboysen.bsky.social
 - NHL
 - Hockey
-- "Anaheim Ducks"
-- "Arizona Coyotes"
-- "Boston Bruins"
-- "Buffalo Sabres"
-- "Calgary Flames"
-- "Carolina Hurricanes"
-- "Chicago Blackhawks"
-- "Colorado Avalanche"
-- "Columbus Blue Jackets"
-- "Dallas Stars"
-- "Detroit Red Wings"
-- "Edmonton Oilers"
-- "Florida Panthers"
-- "Los Angeles Kings"
-- "Minnesota Wild"
-- "Montreal Canadiens"
-- "Nashville Predators"
-- "New Jersey Devils"
-- "New York Islanders"
-- "New York Rangers"
-- "Ottawa Senators"
-- "Philadelphia Flyers"
-- "Pittsburgh Penguins"
-- "San Jose Sharks"
-- "Seattle Kraken"
-- "St Louis Blues"
-- "Tampa Bay Lightning"
-- "Toronto Maple Leafs"
-- "Vancouver Canucks"
-- "Vegas Golden Knights"
-- "Washington Capitals"
-- "Winnipeg Jets"
 
 # safeMode
+> Safe mode limits the total number of API calls coming from Cloudflare.
+>
+> Set to `false` if you have higher limits via a paid Cloudflare plan.
 true
 
 # avatar
+> This must link to an image (PNG or JPEG) in the same directory as this CONFIG.md. It doesn't have to be called `avatar.png`, but just be sure this CONFIG.md points to the correct file.
 ![](avatar.png)
