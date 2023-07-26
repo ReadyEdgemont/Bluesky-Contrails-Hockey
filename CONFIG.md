@@ -8,7 +8,7 @@ Hockey+
 > This is the title of the custom feed. Maximum length is 24 characters.
 
 # description
-You're feed for all things hockey on bluesky (NHL, IIHF, PWHPA) ! Feed managed by @readyedgemont.bsky.social
+You're feed for all things hockey on bluesky (NHL, IIHF, PWHPA)! Feed managed by @readyedgemont.bsky.social
 > This is the description of the feed.
 
 
