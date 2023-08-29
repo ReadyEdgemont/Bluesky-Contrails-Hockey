@@ -20,8 +20,7 @@ You're feed for all things hockey on bluesky (NHL, IIHF, PWHPA)!
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 - https://bsky.app/profile/capfriendly.bsky.social
 - NHL
-- NHLPA
-- PWHPA
+- PWHL
 - IIHF
 - Hockey
 - "Stanley Cup"
