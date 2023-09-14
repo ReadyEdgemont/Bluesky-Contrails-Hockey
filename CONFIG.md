@@ -23,7 +23,6 @@ You're feed for all things hockey on bluesky (NHL, IIHF, PWHL)!
 - PWHL
 - IIHF
 - Hockey
-- "Stanley Cup"
 
 # safeMode
 > Safe mode limits the total number of API calls coming from Cloudflare.
